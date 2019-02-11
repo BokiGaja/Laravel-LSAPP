@@ -1,4 +1,4 @@
-#Laravel LSAPP
+Laravel LSAPP
 
 - Clone this project
 - Go to the folder application using cd command on your cmd or terminal
